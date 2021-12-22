@@ -1,0 +1,104 @@
+{
+    "menu":[
+                {
+                    "category":"foods",
+                    "name":"1-for1 BBQ Cheese Zinger ",
+                    "price":7.10,
+                    "content":[
+                        "2BBQ Chese Zinger"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_1for1_BBQ_Cheese_Zinger.jpg"
+                },
+                {
+                    "category":"foods",
+                    "name":"BBQ Crunch Chicken Box",
+                    "price":11.95,
+                    "content":[
+                        "2 pcs Chicken (BBQ Crunch /Hot & Crispy/ Original Recipe)",
+                        "2 pcs Hot & Crispy Tenders",
+                        "1 reg Fries",
+                        "1 reg Whipped Potato",
+                        "1 reg Pepsi Black"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_BBQ_Crunch_Chicken_Box.jpg"
+                },
+                {
+                    "category":"foods",
+                    "name":"BBQ Crunch Chicken Buddy Meal",
+                    "price":21.95,
+                    "content":[
+                        "4 pcs Chicken",
+                        "3 pcs Hot & Crispy Tenders",
+                        "2 med Whipped Potato",
+                        "2 reg Pepsi Black"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_BBQ_Crunch_Chicken_Buddy_Meal.jpg"
+                },
+                {
+                    "category":"foods",
+                    "name":"Zinger Variety Box (BBQ Crunch Chicken)",
+                    "price":28.95,
+                    "content":[
+                        "4 pcs Chicken (BBQ Crunch /Hot & Crispy/ Original Recipe)",
+                        "3 pcs Hot & Crispy Tenders",
+                        "6 pcs Nuggets",
+                        "1 med Whipped Potato"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_1for1_BBQ_Cheese_Zinger.jpg"
+                },
+                {
+                    "category":"foods",
+                    "name":"BBQ Pockett Variety Box (BBQ Crunch Chicken)",
+                    "price":11.95,
+                    "content":[
+                        "4 pcs Chicken (BBQ Crunch /Hot & Crispy/ Original Recipe)",
+                        "1 BBQ Pockett",
+                        "3 pcs Hot & Crispy Tenders",
+                        "6 pcs Nuggets",
+                        "1 med Whipped Potato"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_BBQ_Pockett_Crunch_Variety_Box.jpg"
+                },
+                {
+                    "category":"foods",
+                    "name":"BBQ Cheese Zinger Variety Box (BBQ Crunch Chicken)",
+                    "price":11.95,
+                    "content":[
+                        "4 pcs Chicken (BBQ Crunch /Hot & Crispy/ Original Recipe)",
+                        "1 BBQ Cheese Zinger",
+                        "3 pcs Hot & Crispy Tenders",
+                        "6 pcs Nuggets",
+                        "1 med Whipped Potato"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_1for1_BBQ_Cheese_Zinger.jpg"
+                },
+                {
+                    "category":"foods",
+                    "name":"BBQ Pockett Variety Box (BBQ Crunch Chicken)",
+                    "price":11.95,
+                    "content":[
+                        "4 pcs Chicken (BBQ Crunch /Hot & Crispy/ Original Recipe)",
+                        "1 BBQ Pockett",
+                        "3 pcs Hot & Crispy Tenders",
+                        "6 pcs Nuggets",
+                        "1 med Whipped Potato"
+                    ],
+                    "image":"https://www.kfc.com.sg//Content/OnlineOrderingImages/Menu/Items/DEL_BBQ_Cheese_Crunch_Zinger_Variety_Box_New1.jpg"
+                },
+                {
+                    "category":"drinks",
+                    "name":"Pepsi",
+                    "price":5.95,
+                    "content":[
+                        "4 pcs Chicken (BBQ Crunch /Hot & Crispy/ Original Recipe)",
+                        "1 BBQ Pockett",
+                        "3 pcs Hot & Crispy Tenders",
+                        "6 pcs Nuggets",
+                        "1 med Whipped Potato"
+                    ],
+                    "image":"https://sc04.alicdn.com/kf/U0c6c7fa9609d4ecda336bfd114d6a3f0o.jpeg"
+                }
+
+
+]
+}

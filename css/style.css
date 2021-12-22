@@ -1,0 +1,7 @@
+body{
+    background-image: url("../img/bg.jpg");
+}
+
+.list{
+    list-style-type: none;
+}
